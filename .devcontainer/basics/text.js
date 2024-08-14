@@ -1,1 +1,1 @@
-console.log["sati"]
+console.log("virat kohli")
